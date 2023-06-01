@@ -1,0 +1,59 @@
+
+
+.float .box {
+    float: left;
+}
+
+.left {
+    float: left;
+}
+
+.clear {
+    clear: left;
+}
+
+.float-one {
+    width: 500px;
+    float: left;
+}
+
+.float-two {
+    width: 600px;
+    float: left;
+}
+
+.float .one {
+    height: 120px;
+    width: 300px;
+}
+
+.float .two,
+.float .three {
+    height: 60px;
+    width: 500px;
+}
+
+.float .four {
+    height: 120px;
+    width: 200px;  
+}
+
+.float .five {
+    height: 60px;
+    width: 400px;  
+}
+
+.float .six {
+    height: 60px;
+    width: 200px;  
+}
+
+.float .seven {
+    height: 60px;
+    width: 600px;  
+}
+
+.float .eight {
+    height: 120px;
+    width: 400px;
+}

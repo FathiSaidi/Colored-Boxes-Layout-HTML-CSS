@@ -1,0 +1,60 @@
+
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+ .flex-one,
+ .flex-two,
+ .flex-three,
+ .flex-four,
+ .flex-five {
+    display: flex;
+}
+
+.flex-one,
+.flex-three,
+.flex-five {
+    flex-direction: row;
+}
+
+.flex-two,
+.flex-four {
+    flex-direction: column;
+}
+
+.flex .one {
+    height: 120px;
+    width: 300px;
+}
+
+.flex .two,
+.flex .three {
+    height: 60px;
+    width: 500px;
+}
+
+.flex .four {
+    height: 120px;
+    width: 200px;  
+}
+
+.flex .five {
+    height: 60px;
+    width: 400px;  
+}
+
+.flex .six {
+    height: 60px;
+    width: 200px;  
+}
+
+.flex .seven {
+    height: 60px;
+    width: 600px;  
+}
+
+.flex .eight {
+    height: 120px;
+    width: 400px;  
+}
